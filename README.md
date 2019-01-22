@@ -4,5 +4,5 @@
 
 <li> Gaussuan Naive Bayes </li>
 <li> Logistic Regression</li>
-<li> Support Vector MAchine </li>
+<li> Support Vector Machine </li>
 <li> Neural Network (Backpropagation) </li>
